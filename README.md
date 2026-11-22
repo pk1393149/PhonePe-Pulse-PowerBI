@@ -80,6 +80,9 @@ PhonePe-Pulse-PowerBI/
 ├── Executive_Overview.png
 └── Advanced Analytics.png
 ```
+## Download Power BI Dashboard
+
+[Download PhonePe Pulse Dashboard (.pbix)](./PhonePe_Pulse_Data_Analytics.pbix)
 
 ## How to Use
 
